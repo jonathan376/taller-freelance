@@ -1,1 +1,1 @@
-<link rel="stylesheet" href="freelance.html">
+<li><a href="freelance.html">Frelance</a></li>
