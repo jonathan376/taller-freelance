@@ -1,3 +1,1 @@
-
-                <li><a href="freelance.html">freelance</a></li>
-           
+<li><a href="freelance.html">Freelance</a></li>
